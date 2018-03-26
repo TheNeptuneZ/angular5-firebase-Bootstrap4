@@ -1,13 +1,15 @@
 # Angular 5 Bootstrap 4 and Firebase starter Application
 
-Angular 5 starter application using Bootstrap 4 and Firebase
+## Clone the project
+Run `git clone https://github.com/TheNeptuneZ/angular5-firebase-Bootstrap4.git ` to clone the project.
 
 ## Download dependecies
-
-Run `npm start` to dowload the project's dependecies.
+Run `npm start` inside your project folder to dowload the dependecies.
 
 ## Development server
-
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Firebase Configuration *If you want to link the project to your db*
+Create firebase account "here is the link :`firebase.google.com`", after that a database 
 
 
