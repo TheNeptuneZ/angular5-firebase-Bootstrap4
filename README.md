@@ -24,3 +24,5 @@ Create firebase account here is the [LINK](https://firebase.google.com) , a data
   * storageBucket: "lxxxxxxxxxxxxxxxxxx",
   * messagingSenderId: "xxxxxxxxxxxxxxxxxx"
   
+  
+### Please notify me if you find bugs.
